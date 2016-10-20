@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497867168639",
+    "project_id": "double-lore-145319"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497867168639:android:47757e0ba21e8064",
+        "android_client_info": {
+          "package_name": "com.uninorte.googleauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497867168639-3d7grf3m3cv20retmr7t46vp5i10geiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uninorte.googleauth",
+            "certificate_hash": "7CAB35C76D6C7940A085B1405532C14342962793"
+          }
+        },
+        {
+          "client_id": "497867168639-tvibvagms231f1vgil65b5s4bdgria2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4eTujQwqbPe6OvHEVbPCL9ydjpA153wk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
